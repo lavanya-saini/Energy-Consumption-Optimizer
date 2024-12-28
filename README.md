@@ -47,7 +47,7 @@ Web Server: Flask (for API integration)
 - Static Threshold for Alerts: The high-usage alert threshold (50 kWh) is static and not user-configurable.
 - Mobile Optimization: UI may require additional styling for optimal responsiveness on smaller screens.
 
-### Credits and References 
+### <ins> Credits and References  </ins>
 - Flask Documentation: https://flask.palletsprojects.com
 - scikit-learn Documentation: https://scikit-learn.org
 
