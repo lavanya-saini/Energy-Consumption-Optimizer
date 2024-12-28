@@ -48,7 +48,7 @@ Web Server: Flask (for API integration)
 - Mobile Optimization: UI may require additional styling for optimal responsiveness on smaller screens.
 
 ### Credits and References 
-- Flask Documentation: (https://flask.palletsprojects.com)
-- scikit-learn Documentation: (https://scikit-learn.org)
+- Flask Documentation: https://flask.palletsprojects.com
+- scikit-learn Documentation: https://scikit-learn.org
 
 
