@@ -11,19 +11,15 @@ A web-based application designed to help users track their energy usage, calcula
 ### Installation and Usage Instructions
 #### Installation 
 1. Clone the Repository
-   '''
-   git clone <repository-url>
-   cd energy-consumption-optimizer
-   '''
+   `git clone <repository-url>
+   cd energy-consumption-optimizer`
+   
 2. Backend Setup
    - Install Python dependencies
-     '''
-     pip install flask pandas scikit-learn
-     '''
+     `pip install flask pandas scikit-learn`
    - Run the Flask server
-     '''
-     python prediction.py
-     '''
+     `python predicion.py`
+     
 3. Frontend Setup
    Open index.html in your preferred browser or serve the files through a local server for better performance.
 
