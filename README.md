@@ -29,7 +29,26 @@ A web-based application designed to help users track their energy usage, calcula
 3. Click Calculate to view total usage, cost, and future predictions.
 4. Review the energy-saving tips to optimize consumption
 
-### Tech Stack and Dependencies
+### <ins> Tech Stack and Dependencies </ins>
 #### Frontend 
+Languages: HTML, CSS, JavaScript
+
+#### Backend 
+- Framework: Flask (Python)
+- Libraries:
+`pandas` for data manipulation
+`scikit-learn` for linear regression modeling
+
+#### Other Tools
+Web Server: Flask (for API integration)
+
+### <ins> Limitations or Known Issues </ins>
+- Basic Prediction Model: The prediction uses a simple linear regression model trained on limited mock data, which may not yield accurate forecasts for all use cases.
+- Static Threshold for Alerts: The high-usage alert threshold (50 kWh) is static and not user-configurable.
+- Mobile Optimization: UI may require additional styling for optimal responsiveness on smaller screens.
+
+### Credits and References 
+- Flask Documentation: (https://flask.palletsprojects.com)
+- scikit-learn Documentation: (https://scikit-learn.org)
 
 
