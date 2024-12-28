@@ -1,14 +1,14 @@
 # Energy-Consumption-Optimizer
 A web-based application designed to help users track their energy usage, calculate costs, predict future consumption, and provide actionable tips for reducing energy consumption. This tool aims to promote cost savings and environmental sustainability.
 
-### Features and Functionalities 
+### <ins> Features and Functionalities </ins>
 - Energy Tracking: Input daily energy consumption and cost per unit to calculate total usage and expenses over different time frames (daily, weekly, monthly).
 * Predictions: Forecast energy usage and costs for the next three months using a basic predictive model.
 + Energy Saving Tips: Offers tailored suggestions to reduce energy consumption.
 - Alerts: Notifies users if their energy usage exceeds a specified threshold.
 * Interactive UI: Simple and intuitive user interface with results displayed dynamically.
 
-### Installation and Usage Instructions
+### <ins> Installation and Usage Instructions </ins>
 #### Installation 
 1. Clone the Repository
    `git clone <repository-url>
